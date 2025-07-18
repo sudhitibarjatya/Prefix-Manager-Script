@@ -21,7 +21,7 @@ A user-friendly PySide2-based tool for managing node prefixes in Houdini.
 3. Edit the new tool and add the script in the python module under the script tab.
 
 ## Prerequisites
-- **Houdini** (with Karma rendering support for relevant tools).
+- **Houdini** 
 - **PySide2** (for GUI-based scripts).
 
 ## Contribution
